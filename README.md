@@ -88,9 +88,6 @@ python main.py
 - Baudrate: 115200
 - Note: On Linux, you may need to remove brltty or create a symlink
 
-## Demo Video
-
-[Bilibili](https://www.bilibili.com/video/BV1uHrmYbEYr)
 
 ## Parts List
 

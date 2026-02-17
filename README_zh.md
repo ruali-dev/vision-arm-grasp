@@ -87,9 +87,6 @@ python main.py
 - 波特率：115200
 - 注意：Linux 下可能需要移除 brltty 或创建符号链接
 
-## 演示视频
-
-[B 站演示视频](https://www.bilibili.com/video/BV1uHrmYbEYr)
 
 ## 购买清单
 
