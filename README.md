@@ -99,3 +99,7 @@ python main.py
 | 5V 3A power adapter | 1 |
 | Servo extension cables | as needed |
 | M3 screws, nuts, washers | as needed |
+
+## License
+
+MIT License - see [LICENSE](./LICENSE)

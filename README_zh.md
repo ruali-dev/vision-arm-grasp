@@ -98,3 +98,7 @@ python main.py
 | 5V 3A 电源适配器 | 1 |
 | 舵机延长线 | 若干 |
 | M3 螺丝、螺母、垫圈 | 若干 |
+
+## 许可证
+
+MIT License - 见 [LICENSE](./LICENSE)
